@@ -1,4 +1,4 @@
-# Olá Pessoal!
+<h2 align="center">Olá Pessoal!</h2>
 
 Este projeto foi criado para abrigar exercícios destinado a linguagem C++, estudos esses destinados a matéria de Gestão de Sistemas Operacionais, do curso de Gestão de Tecnologia da Informação, da faculdade de tecnologia de São Paulo.
 
